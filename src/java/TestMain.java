@@ -8,5 +8,6 @@ public class TestMain {
 
         System.out.println("feature-A modify");
         System.out.println("feature-B commit");
+        System.out.println("feature-C modify commit");
     }
 }
